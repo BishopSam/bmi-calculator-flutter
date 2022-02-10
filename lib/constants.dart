@@ -10,7 +10,7 @@ const knumberTextStyle = TextStyle(fontSize: 50.0, fontWeight: FontWeight.w900);
 const klabelTextStyle =  TextStyle(
               fontSize: 18.0, color: Color(0xff8d8E98));
 
-const kTitleTextStyle = TextStyle(fontWeight: FontWeight.bold, fontSize: 50);
+const kTitleTextStyle = TextStyle(fontWeight: FontWeight.bold, fontSize: 30);
 
 const kResultTextStyle = TextStyle(color: Color(0xff24D876), fontSize: 22, fontWeight: FontWeight.bold);
 

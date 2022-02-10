@@ -18,7 +18,6 @@ class BottomButton extends StatelessWidget {
         child: Center(child: Text(buttonTitle, style: TextStyle( fontWeight: FontWeight.bold, fontSize: 25))),
         color: kbottomContainerColor,
         width: double.infinity,
-        margin: EdgeInsets.only(top: 10),
         height: kbottomContainerHeight,
       ),
     );
